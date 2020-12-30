@@ -1,0 +1,16 @@
+.menu {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  height: 100%;
+  margin: 30% auto;
+}
+
+.point:hover {
+  color: aqua;
+  cursor: pointer;
+}
+.color {
+  color: blue;
+}
